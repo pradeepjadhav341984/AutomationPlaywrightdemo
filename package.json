@@ -1,0 +1,22 @@
+{
+  "name": "automationplaywrightdemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeepjadhav341984/AutomationPlaywrightdemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradeepjadhav341984/AutomationPlaywrightdemo/issues"
+  },
+  "homepage": "https://github.com/pradeepjadhav341984/AutomationPlaywrightdemo#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.10"
+  }
+}
